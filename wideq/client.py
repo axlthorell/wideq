@@ -11,8 +11,8 @@ from typing import Any, Optional
 
 from . import core
 
-DEFAULT_COUNTRY = 'US'
-DEFAULT_LANGUAGE = 'en-US'
+DEFAULT_COUNTRY = 'SE'
+DEFAULT_LANGUAGE = 'sv-SE'
 #: Represents an unknown enum value.
 _UNKNOWN = 'Unknown'
 
